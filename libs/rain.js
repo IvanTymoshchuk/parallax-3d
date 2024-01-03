@@ -55,7 +55,6 @@ function animateRain() {
 	for (let i = 0; i < rainArray.length; i++) {
 		rainArray[i].update();
 	}
-
 }
 
 animateRain();

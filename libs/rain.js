@@ -34,7 +34,6 @@ function RainDrops(x, y, endy, velocity, opacity) {
 		}
 		this.draw();
 	}
-
 }
 
 let rainArray = [];
